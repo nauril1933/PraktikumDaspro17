@@ -27,7 +27,7 @@ public class StudiKasus1_17{
         System.out.println("Total bayar   : Rp " + totalBayar);
 
         if (uangBayar >= totalBayar) {
-            kembalian = uangBayar - totalBayar:
+            kembalian = uangBayar - totalBayar;
             System.out.println("Kembalian    : Rp " + kembalian);
         } else {
             kurang = totalBayar - uangBayar;
